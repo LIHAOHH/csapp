@@ -1,0 +1,4 @@
+make drivers
+make VERSION=full
+./benchmark.pl
+./correctness.pl
